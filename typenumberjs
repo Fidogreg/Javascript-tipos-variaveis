@@ -1,0 +1,18 @@
+// Tipo Number
+
+// Variavel endereco e espaço 
+// Armazenamento e memoria
+const muNumber = 3;
+
+const primeiroNumero = 3;
+const segundoNUmero = 2;
+
+// Proibido variaveis de mesmo nome
+//const myNumber = 5;
+
+// Soma de duas variaveis
+
+const soma = primeiroNumero + segundoNUmero;
+
+// Comando output, printar na tela, mostrar na tela
+console.log(soma);
