@@ -15,4 +15,3 @@ const nome = " Rafael";
 const sobrenome = "Fernandes";
 
 console.log(nome === sobrenome);
-
